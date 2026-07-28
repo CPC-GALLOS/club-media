@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="752"
+   height="752"
+   viewBox="0 0 752 752"
+   sodipodi:docname="CPC-GALLOS_bg.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.70294922"
+     inkscape:cx="446.68945"
+     inkscape:cy="339.28482"
+     inkscape:window-width="1536"
+     inkscape:window-height="788"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <circle
+     style="fill:#000000;stroke-width:1.99237"
+     id="path1-1-6"
+     cx="376"
+     cy="376"
+     r="376"
+     inkscape:label="black_border" />
+  <circle
+     style="fill:#ffffff;stroke-width:1.98707"
+     id="path1-1"
+     cx="376"
+     cy="376"
+     r="375"
+     inkscape:label="white_BG" />
+  <ellipse
+     style="display:inline;fill:none;stroke-width:1.55889"
+     id="path1"
+     cx="397.33865"
+     cy="358.92908"
+     inkscape:label="CPC-GALLOS_path"
+     rx="296.33865"
+     ry="292.07092" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.6667px;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+     id="text2"
+     transform="rotate(-179.43268,385.5463,365.96302)"
+     inkscape:label="CPC-GALLOS"><textPath
+       xlink:href="#path1"
+       id="textPath2"
+       style="font-size:78.6667px">Club de programación competitiva GALLOS</textPath></text>
+  <text
+     xml:space="preserve"
+     style="font-size:128px;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code, Normal';fill:#000000"
+     x="113.5"
+     y="420.375"
+     id="text1"
+     inkscape:label="[GALLOS]"><tspan
+       id="tspan1"
+       x="113.5"
+       y="420.375">[Γα=Ω5]</tspan></text>
+</svg>
