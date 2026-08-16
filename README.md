@@ -4,6 +4,7 @@ Repositorio central de recursos visuales del club, incluyendo logotipos, imágen
 
 ## Herramientas utilizadas
 
+- La tipografía utilizada en los logotipos del club es **Cascadia Code**.
 - Para crear los fragmentos de código para redes sociales utilizamos [chalk.ist](https://chalk.ist/).
 - Para generar los códigos QR:
   1. Exportamos el código en formato **SVG** con [Hovercode](https://hovercode.com/).
