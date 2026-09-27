@@ -9,6 +9,7 @@ Repositorio central de recursos visuales del club, incluyendo logotipos, imágen
 - Para generar los códigos QR:
   1. Exportamos el código en formato **SVG** con [Hovercode](https://hovercode.com/).
   2. Utilizamos [Inkscape](https://inkscape.org/es/) para eliminar la imagen PNG incrustada y conservar únicamente el contenido vectorial.
+- Para el QR con diseño como pixel art usamos [mosaic qr](https://mosaicqr.com)
 
 ## Créditos de imágenes
 
